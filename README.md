@@ -3,7 +3,7 @@
 > **Open-source observability platform for AI agents — trace, monitor & debug LLM agents in production.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/agentwatch?style=social)](https://github.com/yourusername/agentwatch)
+[![GitHub Stars](https://img.shields.io/github/stars/20csm2k25-netizen/agentwatch?style=social)](https://github.com/20csm2k25-netizen/agentwatch)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Status](https://img.shields.io/badge/status-early--development-orange.svg)]()
 
@@ -141,8 +141,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 
 ## 💬 Community
 
-- 🐛 **Found a bug?** [Open an issue](https://github.com/yourusername/agentwatch/issues)
-- 💡 **Have an idea?** [Start a discussion](https://github.com/yourusername/agentwatch/discussions)
+- 🐛 **Found a bug?** [Open an issue](https://github.com/20csm2k25-netizen/agentwatch/issues)
+- 💡 **Have an idea?** [Start a discussion](https://github.com/20csm2k25-netizen/agentwatch/discussions)
 - ⭐ **Like the project?** Star the repo — it helps more than you think
 
 ---
