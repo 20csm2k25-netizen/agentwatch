@@ -22,7 +22,6 @@ from __future__ import annotations
 import json
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Dict
 
 _DEFAULT_PRICING_PATH = Path(__file__).parent / "pricing.json"
 
