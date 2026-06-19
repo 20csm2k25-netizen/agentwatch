@@ -1,0 +1,51 @@
+{
+  "_comment": "USD per 1M tokens. Source: openai.com/api/pricing, verified 2026-06-18. Update this file when OpenAI changes rates — do not hardcode prices in Python.",
+  "_last_verified": "2026-06-18",
+  "models": {
+    "gpt-5.5": {
+      "input": 5.00,
+      "cached_input": 0.50,
+      "output": 30.00
+    },
+    "gpt-5.5-pro": {
+      "input": 30.00,
+      "cached_input": 3.00,
+      "output": 180.00
+    },
+    "gpt-5.4": {
+      "input": 2.50,
+      "cached_input": 0.25,
+      "output": 15.00
+    },
+    "gpt-5.4-mini": {
+      "input": 0.75,
+      "cached_input": 0.075,
+      "output": 3.00
+    },
+    "gpt-5.4-nano": {
+      "input": 0.20,
+      "cached_input": 0.02,
+      "output": 1.25
+    },
+    "gpt-4.1": {
+      "input": 2.00,
+      "cached_input": 0.50,
+      "output": 8.00
+    },
+    "gpt-4.1-nano": {
+      "input": 0.10,
+      "cached_input": 0.025,
+      "output": 0.40
+    },
+    "gpt-4o": {
+      "input": 2.50,
+      "cached_input": 1.25,
+      "output": 10.00
+    },
+    "gpt-4o-mini": {
+      "input": 0.15,
+      "cached_input": 0.075,
+      "output": 0.60
+    }
+  }
+}
