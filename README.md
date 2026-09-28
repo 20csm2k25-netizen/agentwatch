@@ -145,11 +145,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 - 💡 **Have an idea?** [Start a discussion](https://github.com/20csm2k25-netizen/agentwatch/discussions)
 - ⭐ **Like the project?** Star the repo — it helps more than you think
 
----
-
-## 📄 License
-
-MIT License — free to use, modify, and self-host. See [LICENSE](LICENSE) for details.
 
 ---
 
