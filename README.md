@@ -52,7 +52,7 @@ Your AI Agent  ──▶  AgentWatch SDK  ──▶  AgentWatch Dashboard
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 > ⚠️ AgentWatch is currently in early development. Star this repo to follow progress.
 
